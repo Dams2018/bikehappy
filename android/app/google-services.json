@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858531294561",
+    "firebase_url": "https://bikehappy-15411.firebaseio.com",
+    "project_id": "bikehappy-15411",
+    "storage_bucket": "bikehappy-15411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858531294561:android:6b588ad6a7695cd993a920",
+        "android_client_info": {
+          "package_name": "industries.astorga.bikehappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858531294561-u6ujd81rne1qqbro3o97b68ro11npmm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkjVL2fQjzGy615Lph7kgv0Yl9MzD-Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858531294561-u6ujd81rne1qqbro3o97b68ro11npmm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
