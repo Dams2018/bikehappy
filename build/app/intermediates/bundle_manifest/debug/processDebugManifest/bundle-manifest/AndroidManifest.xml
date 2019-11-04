@@ -57,7 +57,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDL2Vmmg6VqsxCLxjTqRRmUADxvscX4TuQ" />
+            android:value="AIzaSyAzHRerCxZiNmLiQldfDixfx5qiDY9H_Mo" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

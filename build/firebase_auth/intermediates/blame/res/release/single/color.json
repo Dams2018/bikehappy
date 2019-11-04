@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3c27561b43883f324180a05ea325a476/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3c27561b43883f324180a05ea325a476/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3c27561b43883f324180a05ea325a476/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

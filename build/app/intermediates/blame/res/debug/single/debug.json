@@ -104,20 +104,12 @@
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
@@ -156,16 +148,16 @@
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-xhdpi/icon.png"
-    },
-    {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -190,10 +182,6 @@
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -236,16 +224,8 @@
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",

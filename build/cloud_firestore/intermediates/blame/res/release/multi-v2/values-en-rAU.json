@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/cloud_firestore/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

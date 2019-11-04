@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/layout-v21/notification_action.xml"
+    }
+]
