@@ -1,14 +1,14 @@
 [
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/fe7924dfa7e2bea91ab8497bc5483819/play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/fe7924dfa7e2bea91ab8497bc5483819/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/fe7924dfa7e2bea91ab8497bc5483819/play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
     }
 ]

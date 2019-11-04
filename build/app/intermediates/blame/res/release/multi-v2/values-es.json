@@ -4,7 +4,24 @@
             "outputFile": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
-                    "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/5410ff668b42ce4ba4b78aede228181b/res/values-es/values.xml",
+                    "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/bceff890aabbcb11b2a35aa0e85d909a/jetified-play-services-basement-17.0.0/res/values-es/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "218",
+                        "endOffsets": "465"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1299",
+                        "endColumns": "218",
+                        "endOffsets": "1513"
+                    }
+                },
+                {
+                    "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/fe7924dfa7e2bea91ab8497bc5483819/play-services-base-17.0.0/res/values-es/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/653f7864f411cc0b3b9c906814309fb8/res/values-es/values-es.xml",
+                    "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/7a44c924639152759ba6f94fa6b6a10e/core-1.0.0/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,23 +52,6 @@
                         "startOffsets": "2931",
                         "endColumns": "100",
                         "endOffsets": "3027"
-                    }
-                },
-                {
-                    "source": "/Users/dams/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/aef72324ebffdac3688fa13a9756a777/res/values-es/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "218",
-                        "endOffsets": "465"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1299",
-                        "endColumns": "218",
-                        "endOffsets": "1513"
                     }
                 }
             ]

@@ -5,6 +5,11 @@ package io.flutter.plugins.firebaseauth;
 
 public final class BuildConfig {
   public static final boolean DEBUG = false;
+  public static final String LIBRARY_PACKAGE_NAME = "io.flutter.plugins.firebaseauth";
+  /**
+   * @deprecated APPLICATION_ID is misleading in libraries. For the library package name use LIBRARY_PACKAGE_NAME
+   */
+  @Deprecated
   public static final String APPLICATION_ID = "io.flutter.plugins.firebaseauth";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
