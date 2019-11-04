@@ -28,8 +28,8 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="bikehappy" >
+        android:icon="@mipmap/icon"
+        android:label="BikeHappy" >
         <activity
             android:name="industries.astorga.bikehappy.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

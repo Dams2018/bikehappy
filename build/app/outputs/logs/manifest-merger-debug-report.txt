@@ -153,7 +153,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dams
 	android:label
 		ADDED from /Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/AndroidManifest.xml:13:9-34
 	android:icon
-		ADDED from /Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/AndroidManifest.xml:14:9-36
 	android:name
 		ADDED from /Users/dams/AndroidStudioProjects/mybubble/bikehappy/android/app/src/main/AndroidManifest.xml:12:9-57
 activity#industries.astorga.bikehappy.MainActivity

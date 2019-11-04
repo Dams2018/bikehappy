@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Nov 03 18:01:19 CLST 2019
+#Sun Nov 03 22:33:44 CLST 2019
 17.baseType=DIRECTORY
 4.path=flutter_assets/assets/Oval.png
 25.base=/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out
