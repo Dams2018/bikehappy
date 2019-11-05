@@ -72,7 +72,7 @@ class _UserState extends State<User> {
                           Column(
                             children: <Widget>[
                               Container(
-                                child: Image()
+                                child: Imagen()
                               ),
                             ],
                           ),
@@ -189,7 +189,7 @@ class _UserState extends State<User> {
   }
 }
 
-class Image extends StatelessWidget {
+class Imagen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double _size = 100.0;
