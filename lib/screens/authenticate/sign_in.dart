@@ -3,6 +3,8 @@ import 'package:bikehappy/screens/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:bikehappy/services/auth.dart';
 import 'package:flutter/services.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:location/location.dart';
 
 class SignIn extends StatefulWidget {
   @override
@@ -11,6 +13,8 @@ class SignIn extends StatefulWidget {
 
 class _SignInState extends State<SignIn> {
   final AuthService _auth = AuthService();
+
+  GoogleMapController _controller;
 
   String email = '';
   String password = '';
@@ -21,7 +25,7 @@ class _SignInState extends State<SignIn> {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarColor: Colors.transparent, // status bar color
     ));
-
+    _activarLocation();
     return Stack(
       // <-- STACK AS THE SCAFFOLD PARENT
       children: [
@@ -33,6 +37,7 @@ class _SignInState extends State<SignIn> {
             ),
           ),
         ),
+
         Scaffold(
             backgroundColor: Colors.transparent,
             appBar: AppBar(
@@ -160,4 +165,27 @@ class _SignInState extends State<SignIn> {
       ],
     );
   }
+
+  void _activarLocation() async {
+    final GoogleMapController controller = await _controller;
+    LocationData currentLocation;
+    var location = new Location();
+    try {
+      currentLocation = await location.getLocation();
+    } on Exception {
+      currentLocation = null;
+    }
+
+    controller.animateCamera(CameraUpdate.newCameraPosition(
+      CameraPosition(
+        bearing: 0,
+        target: LatLng(currentLocation.latitude, currentLocation.longitude),
+        zoom: 17.0,
+      ),
+    ));
+  }
 }
+
+
+
+

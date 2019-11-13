@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'dart:typed_data';
 import 'dart:ui' as ui;
+import 'package:location/location.dart';
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -31,6 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
     // TODO: implement initState
     super.initState();
+
     arriendos.forEach((element) {
 
       allMarkers.add(Marker(
@@ -156,11 +158,13 @@ class _MyHomePageState extends State<MyHomePage> {
                 target: LatLng(-33.363291, -70.678002), zoom: 12.0),
             markers: Set.from(allMarkers),
             onMapCreated: mapCreated,
+            myLocationButtonEnabled: true,
+            myLocationEnabled: true,
           ),
         ),
         Container(
-            alignment: Alignment.centerRight,
-            padding: EdgeInsets.fromLTRB(0, 0, 10, 0),
+            alignment: Alignment.centerLeft,
+            padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
             child: Column(
           children: <Widget>[
             SizedBox(height: 8.0),
@@ -195,7 +199,8 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
           ),
-        )
+        ),
+
       ],
     ));
   }
@@ -212,6 +217,26 @@ class _MyHomePageState extends State<MyHomePage> {
         zoom: 17.0,
         bearing: 45.0,
         tilt: 45.0)));
+  }
+
+
+  void _currentLocation() async {
+    final GoogleMapController controller = await _controller;
+    LocationData currentLocation;
+    var location = new Location();
+    try {
+      currentLocation = await location.getLocation();
+    } on Exception {
+      currentLocation = null;
+    }
+
+    controller.animateCamera(CameraUpdate.newCameraPosition(
+      CameraPosition(
+        bearing: 0,
+        target: LatLng(currentLocation.latitude, currentLocation.longitude),
+        zoom: 17.0,
+      ),
+    ));
   }
 }
 

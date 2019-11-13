@@ -1,4 +1,4 @@
-#Tue Nov 05 17:44:37 CLST 2019
+#Tue Nov 05 23:32:04 CLST 2019
 base.0=/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/app/intermediates/transforms/r8/release/0/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
