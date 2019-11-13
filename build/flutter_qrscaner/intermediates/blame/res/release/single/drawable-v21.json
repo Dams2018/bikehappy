@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/ea11d8e6d5edd7688505cfa75b3aac4c/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

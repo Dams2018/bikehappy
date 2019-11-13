@@ -1,5 +1,6 @@
 cloud_firestore=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.10/
 firebase_auth=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+8/
 firebase_core=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.1+5/
+flutter_qrscaner=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_qrscaner-0.0.4/
 google_maps_flutter=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.21+10/
 location=/Users/dams/development/flutter/.pub-cache/hosted/pub.dartlang.org/location-2.3.5/

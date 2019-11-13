@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/c21cb5113f4da1c54a2b0224997dc9c6/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

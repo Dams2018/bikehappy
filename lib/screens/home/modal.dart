@@ -1,5 +1,7 @@
+import 'package:bikehappy/screens/home/QR_Flutter.dart';
+import 'package:bikehappy/screens/home/home.dart';
 import 'package:flutter/material.dart';
-
+import 'package:flutter_qrscaner/flutter_qrscaner.dart';
 class Modal {
   mainBottomSheet(BuildContext context) {
     showModalBottomSheet(
@@ -56,14 +58,16 @@ class Modal {
       title: Text(name),
       subtitle: Text(subname),
       onTap: () {
-        Navigator.pop(context);
-        action();
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => MyQR()),
+        );
       },
     );
   }
 
   _action1() {
-    print('action 1');
+
   }
 
   _action2() {
@@ -73,4 +77,6 @@ class Modal {
   _action3() {
     print('action 3');
   }
+
+
 }

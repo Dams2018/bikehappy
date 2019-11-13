@@ -160,10 +160,12 @@ class _MyHomePageState extends State<MyHomePage> {
             onMapCreated: mapCreated,
             myLocationButtonEnabled: true,
             myLocationEnabled: true,
+            compassEnabled: true,
+
           ),
         ),
         Container(
-            alignment: Alignment.centerLeft,
+            alignment: Alignment.center,
             padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
             child: Column(
           children: <Widget>[

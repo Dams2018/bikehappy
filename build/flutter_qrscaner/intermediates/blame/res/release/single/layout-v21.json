@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/ea11d8e6d5edd7688505cfa75b3aac4c/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/ea11d8e6d5edd7688505cfa75b3aac4c/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/ea11d8e6d5edd7688505cfa75b3aac4c/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/flutter_qrscaner/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/ea11d8e6d5edd7688505cfa75b3aac4c/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

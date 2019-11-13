@@ -4,12 +4,12 @@
         "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/52f74088f82a8b5aa7e797cc62f895dc/media-1.0.0/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_core/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
-        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/52f74088f82a8b5aa7e797cc62f895dc/media-1.0.0/res/layout/notification_template_lines_media.xml"
-    },
-    {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_core/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
         "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/7a44c924639152759ba6f94fa6b6a10e/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_core/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/dams/.gradle/caches/transforms-2/files-2.1/52f74088f82a8b5aa7e797cc62f895dc/media-1.0.0/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/dams/AndroidStudioProjects/mybubble/bikehappy/build/firebase_core/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
